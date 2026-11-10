@@ -1,0 +1,9 @@
+{
+  "approved_commit": "13744d4b9f1c35cf8aab9361a2bc3823b4c3fbe2",
+  "merge_commit": "160dc9b30a7525f041d33007e14eb07ec584c33e",
+  "sha256": {
+    "ARTICLE.md": "f6754651c7b53646c6506e1be98e90e1ca0f92a1b184b3a9ed9149b90fef8c09",
+    "paper/The-Illusion-of-the-Private-Breakthrough.pdf": "2ac6d04ca12b0b1aa592955c9b8bab0d21186c6d5fbaba67ead9ae67d42344dc"
+  },
+  "article_and_pdf_unchanged": true
+}

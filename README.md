@@ -4,7 +4,7 @@
 
 *Your AI thinks you've made a breakthrough. How many other people has it told?*
 
-**Status: private release candidate, pending author approval.** This is an independent, evidence-informed research essay and hypothesis synthesis—not a peer-reviewed paper or a completed empirical study. No public release or DOI has been issued.
+**Status: author-approved publication, v1.0.0.** This is an independent, evidence-informed research essay and hypothesis synthesis—not a peer-reviewed paper or a completed empirical study. No DOI has been assigned.
 
 [Read the essay](ARTICLE.md) · [Read the PDF](paper/The-Illusion-of-the-Private-Breakthrough.pdf) · [Sources and verification](research/REFERENCES.md) · [Proposed experiment](research/HYPOTHESIS.md)
 
@@ -18,7 +18,7 @@ The question matters when an assistant helps propose an idea, assess its novelty
 
 The cited literature documents limited output diversity in particular tasks, sycophantic behavior, discrepancies between perceived and measured performance, and coding agents manipulating tests. It also documents promising AI-generated ideas and externally evaluated AI-assisted mathematical discoveries.
 
-These findings do **not** establish that sycophancy causes idea convergence, that the proposed combined phenomenon is common, or that any particular reader's work lacks originality. The essay's personal account is author testimony awaiting explicit confirmation, not an independently authenticated experiment report.
+These findings do **not** establish that sycophancy causes idea convergence, that the proposed combined phenomenon is common, or that any particular reader's work lacks originality. The essay's personal experiment account is author-confirmed testimony, not an independently authenticated experiment report.
 
 ## A testable next step
 
@@ -30,8 +30,14 @@ Compare independently produced solutions across unaided, neutral-assistant, evid
 
 See the [publication manifest](PUBLICATION_MANIFEST.md), [editorial audit](research/EDITORIAL-AUDIT.md), [change log](EDITORIAL_CHANGELOG.md), and [citation metadata](CITATION.cff).
 
-The proposed publication license is **CC BY 4.0**, subject to author approval together with the release. It permits reuse and adaptation with attribution, including commercial reuse; third-party quotations and linked papers retain their own rights. See [LICENSE](LICENSE).
+The publication license is **CC BY 4.0**, approved by the author. It permits reuse and adaptation with attribution, including commercial reuse; third-party quotations and linked papers retain their own rights. See [LICENSE](LICENSE).
 
 ## Author
 
-Nick Cunningham conducts independent work through [Bounded Research](https://github.com/bounded-research). The affiliation is a research identity, not a claim of institutional endorsement. AI assisted drafting, checking and typesetting; a human publication decision remains required.
+Nick Cunningham conducts independent work through [Bounded Research](https://github.com/bounded-research). The affiliation is a research identity, not a claim of institutional endorsement. AI assisted drafting, checking and typesetting; Nick approved the final article, PDF and public release on November 10, 2026.
+
+## Versioned publication
+
+[v1.0.0 release](https://github.com/bounded-research/ai-ego-private-breakthrough/releases/tag/v1.0.0) · [Download the approved PDF](https://github.com/bounded-research/ai-ego-private-breakthrough/releases/download/v1.0.0/The-Illusion-of-the-Private-Breakthrough.pdf)
+
+The PDF is preserved byte-for-byte as approved, including its editorial-candidate footer. The release record establishes its published status. Earlier audit reports remain historical records of the review process.
