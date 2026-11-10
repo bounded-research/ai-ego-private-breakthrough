@@ -1,0 +1,53 @@
+{
+  "verified_at": "2026-11-10T20:29:25.438185+00:00",
+  "release": "v1.0.0",
+  "release_commit": "cd69faefbf6501e852f7363da972446463028a9c",
+  "method": "Fresh requests sessions with trust_env=False; no authorization header, netrc, login, or cookies. Redirects followed.",
+  "results": {
+    "repository": {
+      "url": "https://github.com/bounded-research/ai-ego-private-breakthrough",
+      "status": 200,
+      "bytes": 242953,
+      "authenticated": false
+    },
+    "article": {
+      "url": "https://github.com/bounded-research/ai-ego-private-breakthrough/blob/v1.0.0/ARTICLE.md",
+      "status": 200,
+      "bytes": 255514,
+      "authenticated": false
+    },
+    "release": {
+      "url": "https://github.com/bounded-research/ai-ego-private-breakthrough/releases/tag/v1.0.0",
+      "status": 200,
+      "bytes": 148600,
+      "authenticated": false
+    },
+    "pdf": {
+      "url": "https://github.com/bounded-research/ai-ego-private-breakthrough/releases/download/v1.0.0/The-Illusion-of-the-Private-Breakthrough.pdf",
+      "status": 200,
+      "bytes": 76214,
+      "authenticated": false,
+      "sha256": "2ac6d04ca12b0b1aa592955c9b8bab0d21186c6d5fbaba67ead9ae67d42344dc",
+      "matches_approved_pdf": true
+    },
+    "raw_article": {
+      "url": "https://raw.githubusercontent.com/bounded-research/ai-ego-private-breakthrough/v1.0.0/ARTICLE.md",
+      "status": 200,
+      "bytes": 13713,
+      "authenticated": false,
+      "matches_approved_article": true
+    }
+  },
+  "changes": [
+    "Merged PR #1",
+    "Activated approved CC BY 4.0 license and release metadata",
+    "Made repository public",
+    "Created v1.0.0 and uploaded approved PDF"
+  ],
+  "article_and_pdf_unchanged": true,
+  "not_verified": [
+    "No new independent verification of author testimony or scientific claims; no additional editorial review requested."
+  ],
+  "eval_changes": "none",
+  "scaffolds": "none"
+}
