@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Unreleased editorial candidate. Cite the versioned public release once approved."
+title: "The Illusion of the Private Breakthrough"
+type: article
+authors:
+  - family-names: Cunningham
+    given-names: Nick
+    affiliation: Bounded Research
+version: 1.0.0-rc.1
+url: "https://github.com/bounded-research/ai-ego-private-breakthrough"
+repository-code: "https://github.com/bounded-research/ai-ego-private-breakthrough"
+abstract: "Independent research essay proposing a testable hypothesis about AI-assisted idea convergence, sycophancy and perceived originality. Not peer-reviewed; no new empirical findings."
+keywords:
+  - human-AI interaction
+  - sycophancy
+  - AI-assisted creativity
+  - model evaluation
