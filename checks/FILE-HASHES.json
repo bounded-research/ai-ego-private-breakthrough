@@ -1,0 +1,22 @@
+{
+  ".gitignore": "4cad133d4f0a6cf4bba15f1b8bbae48d6a55f20b94f75487c51a93cc6a5af59f",
+  "ARTICLE.md": "f6754651c7b53646c6506e1be98e90e1ca0f92a1b184b3a9ed9149b90fef8c09",
+  "CITATION.cff": "a96d94013bbcfdf8f18b2f675cc787a3225ed6475eb58a476aef24ad5db70ad9",
+  "EDITORIAL_CHANGELOG.md": "44b7875b918cb0d090ffdc185736d23f04efbcdcc7044d384ea6fb346d7c9225",
+  "LICENSE": "1325b9c389a41b6f2d71f3634ebfd5e4b2b07cd599021e5661d94f0063349d4c",
+  "PUBLICATION_MANIFEST.md": "ab31c490951156f6b12d33d524b1cc00aa6a526455bed9f228fe45953c6eb3a6",
+  "README.md": "2168345fd3e1751a741639d34b2f866a22ba0aa702371d035b6bf311709d8965",
+  "checks/CHECKS.md": "239c0afbcce3b542a153f7ff3575e691800cf8169ee153bf09b2ca09d9568a63",
+  "checks/LINK-CHECKS.json": "5fec7517eea1f068bdf5b0b1843bd042db16f62fc70d591405ea5887b329742f",
+  "distribution/LINKEDIN-DRAFT.md": "5984c2b57f535bde37d145c28361eccdfe967a393462fbb0a5c0793948be51a4",
+  "distribution/RESEARCHER-NOTE.md": "b00c42d2af30971eaf6a9863875535cd0bb55711be93ee2f213238bee04bd5e1",
+  "paper/The-Illusion-of-the-Private-Breakthrough.pdf": "2ac6d04ca12b0b1aa592955c9b8bab0d21186c6d5fbaba67ead9ae67d42344dc",
+  "requirements.txt": "f9374856c12f4ee8e2fec956e9aad430ac378aed81259e7b951e1faed391546c",
+  "research/EDITORIAL-AUDIT.md": "73ba44a240bb421231681f625c9196686c91dff34b6b448844d188e07604f809",
+  "research/HYPOTHESIS.md": "676430ed9e70b364af950587016f0b41e4f04bb052843d9be81d33760628c112",
+  "research/REFERENCES.md": "1dbf1041a5e5eceaea788c2ff0bbded6671c8a23c74e4d11982ce927244203d6",
+  "scripts/README.md": "b20c73f3cc5919099c3cecbe950e7d9783727c599e13c22f219f0067fb896caf",
+  "scripts/build_pdf.py": "6d5b0745d8d06911133fe2b66ea6aabea91d877966b5c1d8066200bb03e4fa0d",
+  "scripts/check_links.py": "16aff25335f5a32fe7a1eb9615d3293aac1ba4b1e0289f365d3c3c66659992cd",
+  "scripts/check_publication.py": "991e3edb3cea557fc7e710b1b95b772c4e1a454ff8b6e85c99c60d3f532f528a"
+}

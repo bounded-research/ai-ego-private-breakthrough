@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2409.04109",
+    "status": 200,
+    "final_url": "https://arxiv.org/abs/2409.04109",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://assets.anthropic.com/m/785e231869ea8b3b/original/claude-3-7-sonnet-system-card.pdf",
+    "status": 200,
+    "final_url": "https://www-cdn.anthropic.com/9ff93dfa8f445c932415d335c88852ef47f1201e.pdf",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://cdn.openai.com/pdf/34f2ada6-870f-4c26-9790-fd8def56387f/CoT_Monitoring.pdf",
+    "status": 200,
+    "final_url": "https://cdn.openai.com/pdf/34f2ada6-870f-4c26-9790-fd8def56387f/CoT_Monitoring.pdf",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+    "status": 200,
+    "final_url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+    "status": 200,
+    "final_url": "https://metr.org/blog/2026-02-24-uplift-update/",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://openai.com/index/expanding-on-sycophancy/",
+    "status": 403,
+    "final_url": "https://openai.com/index/expanding-on-sycophancy/",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://osf.io/preprints/psyarxiv/vmyek",
+    "status": 200,
+    "final_url": "https://osf.io/preprints/psyarxiv/vmyek",
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://osf.io/preprints/psyarxiv/yqb29",
+    "status": 200,
+    "final_url": "https://osf.io/preprints/psyarxiv/yqb29",
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://www.clear-eyed.ai/p/practical-tips-for-reducing-chatbot",
+    "status": 200,
+    "final_url": "https://www.clear-eyed.ai/p/practical-tips-for-reducing-chatbot",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://www.nature.com/articles/s41586-023-06924-6",
+    "status": 200,
+    "final_url": "https://www.nature.com/articles/s41586-023-06924-6",
+    "content_type": "text/html; charset=utf-8"
+  }
+]
